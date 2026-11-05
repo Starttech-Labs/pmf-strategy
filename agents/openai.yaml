@@ -1,0 +1,4 @@
+interface:
+  display_name: "PMF Strategy"
+  short_description: "PMF narratives, evidence reviews, and validation plans"
+  default_prompt: "Use $pmf-strategy to assess my product strategy, draft a PMF narrative, and identify the next assumption to validate."
